@@ -30,6 +30,7 @@ header {
     height: 40.85px;
     left: 96px;
     top: 20px;
+    cursor: pointer;
 }
 
 .logo {
@@ -47,6 +48,7 @@ header {
     letter-spacing: -0.5px;
 
     color: #DEDEDE;
+    cursor: pointer;
 }
 
 .resources {
