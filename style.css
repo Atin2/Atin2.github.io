@@ -1712,6 +1712,7 @@ footer {
 }
 
 .logo:hover {
+    cursor: pointer;
     color: #959595;
 }
 
