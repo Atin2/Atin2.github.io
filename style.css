@@ -1666,7 +1666,7 @@ footer {
     background: #202020;
 }
 
-.block1:hover {
+.block1 {
     animation-name: anim1;
     animation-duration: 5s;
     animation-iteration-count: 1;
