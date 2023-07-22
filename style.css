@@ -1710,3 +1710,8 @@ footer {
         
     }
 }
+
+.logo:hover {
+    color: #959595;
+}
+
